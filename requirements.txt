@@ -1,0 +1,13 @@
+wheel
+djangorestframework 
+django-filter
+drf-yasg
+djangorestframework-simplejwt==4.4.0
+python-decouple
+Pillow==8.2
+psycopg2-binary
+python-slugify
+celery
+redis
+django-cors-headers
+Django==3.2.5
