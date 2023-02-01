@@ -2,9 +2,9 @@ wheel
 djangorestframework 
 django-filter
 drf-yasg
-djangorestframework-simplejwt==4.4.0
+djangorestframework-simplejwt
 python-decouple
-Pillow==8.2
+Pillow
 psycopg2-binary
 python-slugify
 celery
